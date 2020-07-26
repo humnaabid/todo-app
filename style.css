@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://www.coredna.com/web_images/blogs/71/960/Progressive-Web-App.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 60%;
+    font-weight: bold;
+    border-radius: 10px;
+}
+button{
+    padding: 10px;
+    margin: 6px;
+    border-radius: 10px;
+    
+
+}
+li{
+    font-size: 25px;
+}
+@media only screen and (max-width: 600px){
+    li{
+     font-size: 20px;
+     
+    }
+   button{
+    width:70%;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+body{
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+
+}
+.fa-trash{
+    width: 19% !important;
+
+}
+.fa-edit{
+    width: 19% !important;
+
+}
+
+   
+  }
+button:hover{
+    background-color:grey;
+}
+input:hover{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-blue-simple-solid-color-background-color-image_48192.jpg);
+
+}
+h1{
+    color: darkcyan;
+}
